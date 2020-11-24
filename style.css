@@ -1,0 +1,36 @@
+.Low-usage {
+    color: green
+} 
+
+.Medium-usage {
+    color: black
+}
+
+.High-usage {
+    color: red
+}
+
+body {
+    display: block;
+    background-image: url(./img/blue.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    bac;
+}
+
+#city-temperature {
+    border: 5px outset blue;
+    background-color: lightblue;
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+#thermostat {
+    border: 20px outset blue;
+    background-color: lightblue;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
